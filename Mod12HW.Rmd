@@ -1,0 +1,38 @@
+---
+title: "About"
+author: "Joceline Rios"
+date: "2023-04-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+***
+## Welcome  
+
+![](Profile Pic-min.jpg)
+
+This is a simple sample to test R Markdown. The link to my blog can be found here:  
+[Joceline's Tumblr](jocelinerios.tumblr.com)  
+
+
+
+***
+## Contact Information
+Medium        | Info
+--------------|---------------------------------------
+Address       | 2850 University Square Dr., Tampa, Fl.
+Phone         | 727-657-5905
+E-mail        | jocelinerios@usf.edu
+
+***
+## Hobbies
+I'm currently learning how to code! Here's a universal example- R version:   
+
+```{r}
+paste("Hello World!")
+
+
+```
+
